@@ -31,6 +31,3 @@ assignees: ''
 
 **Suggested Labels:**
 <!-- Only to be used by non-members -->
-
-**Suggested Assignees:**
-<!-- Only to be used by non-members -->
