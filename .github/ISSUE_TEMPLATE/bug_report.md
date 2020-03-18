@@ -16,7 +16,7 @@ assignees: ''
 **Expected behavior:**
 <!-- A clear and concise description of what you expected to happen. -->
 
-**Environment Information** (_Please complete the following information_) **:**
+**Environment Information** (_Please complete the following information; remove  any unnecessary fields_) **:**
  - Product Version: [e.g. IS 5.10.0, IS 5.9.0 ]
  - OS: [e.g. Windows, Linux, Mac]
  - Database: [e.g. MySQL, H2]
