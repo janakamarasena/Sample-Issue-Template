@@ -19,7 +19,7 @@ assignees: ''
 **Environment Information** (_Please complete the following information_) **:**
  - Product Version: [e.g. IS 5.10.0, IS 5.9.0 ]
  - OS: [e.g. Windows, Linux, Mac]
- - Database [e.g. MySQL, H2]
+ - Database: [e.g. MySQL, H2]
 
 ---
 
