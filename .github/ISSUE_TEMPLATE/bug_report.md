@@ -1,6 +1,6 @@
 ---
 name: ❗️ Issue/Bug report
-about: Create a report to help to improve the product
+about: Report issue or bug related to the product
 title: '[ISSUE]'
 labels: 'Type/Bug'
 assignees: ''
