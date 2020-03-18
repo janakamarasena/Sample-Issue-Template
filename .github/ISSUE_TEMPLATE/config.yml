@@ -2,4 +2,4 @@ blank_issues_enabled: true
 contact_links:
   - name: Doc issues
     url: https://github.com/wso2/docs-is/issues
-    about: Please report documentaion issues here.
+    about: Please report documentaion issues here
