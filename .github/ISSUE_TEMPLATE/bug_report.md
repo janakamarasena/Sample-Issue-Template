@@ -1,6 +1,6 @@
 ---
 name: ❗️ Issue/Bug report
-about: Report issue or bug related to the product
+about: Report issue or bug related to the project
 title: '[ISSUE]'
 labels: 'Type/Bug'
 assignees: ''
