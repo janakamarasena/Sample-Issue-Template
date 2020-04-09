@@ -1,24 +1,17 @@
 ---
-name: Improvement
-about: Report issue or bug related to the project
+name: ✅ Improvement suggestion
+about: Suggest an improvement for the project
 title: '[IMPROVEMENT]'
 labels: 'Type/Improvement'
 assignees: ''
 
 ---
 
-**Describe the Improvement:**
-<!-- A clear and concise description of what the sugested improvement is -->
+**Is your suggestion related to a experience ? Please describe.**
+<!-- A clear and concise description of what the suggestion is. Ex. Need to improve experience in [...] -->
 
-**Is the suggested improvement related to a problem? Please describe.**
-<!-- A clear and concise description of the related issue. -->
+**Describe the improvement**
+<!-- A clear and concise description of what you want to happen. -->
 
----
-
-### Optional Fields
-
-**Related Issues:**
-<!-- Any related issues from this/other repositories-->
-
-**Additional context:**
-<!-- Add any other context or screenshots about the suggested improvement here. -->
+**Additional context**
+<!-- Add any other context or screenshots about the suggestion here. -->
