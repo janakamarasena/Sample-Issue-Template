@@ -29,5 +29,5 @@ assignees: ''
 **Related Issues:**
 <!-- Any related issues from this/other repositories-->
 
-**Additional context: **
+**Additional context:**
 <!-- Add any other context or screenshots about the suggested improvement here. -->
