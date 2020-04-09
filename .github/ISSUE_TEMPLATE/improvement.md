@@ -13,9 +13,6 @@ assignees: ''
 **Is the suggested improvement related to a problem? Please describe.**
 <!-- A clear and concise description of the related issue. -->
 
-**Expected behavior of the improvement:**
-<!-- A clear and concise description of what you expected to happen. -->
-
 ---
 
 ### Optional Fields
