@@ -1,6 +1,6 @@
 ---
 name: ❓ Question
-about: Ask a question related to the product. We encourage to [join our Slack workspace](https://join.slack.com/t/wso2is/shared_invite/enQtNzk0MTI1OTg5NjM1LTllODZiMTYzMmY0YzljYjdhZGExZWVkZDUxOWVjZDJkZGIzNTE1NDllYWFhM2MyOGFjMDlkYzJjODJhOWQ4YjE).
+about: Ask a question related to the product. We encourage to [join our Slack workspace](https://bit.ly/WSO2IS-Slack).
 title: '[QUESTION]'
 labels: 'Type/Question'
 assignees: ''
